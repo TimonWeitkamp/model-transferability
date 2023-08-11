@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "newTD_20210727",
+"name": "TD",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "landcover_code": "4", "landcover_level2": "Dense vegetation", "landcover_level1": "Vegetation", "name": null, "datetime": null, "point_type": "Manually drawn", "reach_point": null, "landcover": null, "crop_cover": null, "cropland": null, "mixed_crop": null, "farmer_planting": null, "farmer_harvest": null, "irrigated_or_rainfed": null, "irri_type": null, "irri_other": null, "poinIDversion": null, "newID": null, "n.overlaps": null, "overlapping": null, "total_area": null, "major_landcover": null, "DEA_id": 1, "code": 5.0, "area": "Catandica" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.045119542997689, -18.065886696134211 ], [ 33.047858198180613, -18.069753299320016 ], [ 33.040925248773064, -18.071546542194749 ], [ 33.040141864228275, -18.06794035443707 ], [ 33.045119542997689, -18.065886696134211 ] ] ] } },
